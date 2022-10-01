@@ -1,8 +1,30 @@
 # pitchforks
-DAO with the focus of fighting against corrupted power
+Uses MoralTechnoEconomics
+Based on Plato's concept of justice
 
-The idea of pitchforks comes from earlier times when people would rise up and grab their pitchforks (or anything that could be used as a weapon) to revolt against tyranny.  In those days, violence was often the only means for people to free themselves from truly desparate conditions.  Current political climate allows for a similarly effective respise from oppressive conditions, however, instead of fighting with violence, people today organize and raise money in an effort to peacefully resolve conflicts of interest.  Pitchforks is intended to shine a light on bad actors causing harm to humanity whilst providing a mechanism towards organization and resolution.
+What does it do?
 
-Pitchfork targets are created by users (targeter) who believe an entity (pitchforkTarget) is causing undue harm to humanity.  Users are rewarded for identifying targets and those targets which affect the most users will receive the most pitchforks.  This creates an economy towards identifying bad actors and provides funding towards resolution.  Targeters are rewarded with 20% of pitchfork revenue generated for being the first to identify a bad actor.  This could be quite a lucrative reward system for those who identify targets which gain populular support.
+It unites the people and gives them a tool to fight against the enemies of humanity. Sometimes, harm caused by specific things have a catastrophic effect on the world.  Sometimes, these things can be clearly identified.  Sometimes, they are supported by those who hold power.  Sometimes, things hide in the shadows.  The things need to be identified and brought into the light at times.  The things, at times, need to be stopped.  Because sometimes, it is about survival.   
+
+When enough people unite to fight for a cause, the tool will become active.  It will be a high hurdle.  It must be obvious and support must be nearly unanimous.  The power of the tool will grow with the support of the people.
+
+Where A is Bad Actor
+-> is the function of harm
+Where B is the Weaker
+
+A->B = -B Determines Reversal Goal (RG)
+
+Where PF is Pitchforks
+-B PF A = PFA
+
+where n = number
+where c = action organization
+PF(A) + n = n(PF(A)) = PF(Value)
+PF > RG = RG |-> -B
+             |-> C
+
+
+
+
 
 
