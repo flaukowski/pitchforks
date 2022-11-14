@@ -35,7 +35,6 @@ PF > RG = RG |-> -B
      
 
 **use twitter for now
-*researching substack for multiple platforms
 
 
 
