@@ -16,6 +16,9 @@ It unites people and provides a tool to fight against harm to humanity. Sometime
 
 When enough people unite to fight for a cause, the tool will become active.  It will be a high hurdle.  It must be obvious and support must be nearly unanimous.  The power of the tool will grow with support.  Scales as does the rose.
 
+
+Originally thought this was crap but now I realize it is exactly right.. just not sure it is communicated effectively (adding to projects)
+
 Where A is Harmful Act
 -> is the function of harm
 Where B is the Weaker
