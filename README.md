@@ -1,52 +1,51 @@
-# pitchforks
-Uses MoralTechnoEconomics
-Based on Plato's concept of justice
-    -the interest of the weaker
-Rooted in Profound 
-
---** need to add Ninjas and Knights - from my notes
-**Need to add Horus - from my notes
-** need time - true random number gen - need to collect my metaverse data somehow
-**reminder to self - one step at a time
-    -
-
-What does it do?
-
-It unites people and provides a tool to fight against harm to humanity. Sometimes, harm caused by specific acts has a catastrophic effect on the world.  Sometimes, these acts can be clearly identified.  Sometimes, harmful acts are supported by those who hold power, whether intentional or not. Harmful acts need to be identified and brought to attention.  Harmful acts, at times, need to be prevented.  At times, it is about survival.   
-
-When enough people unite to fight for a cause, the tool will become active.  It will be a high hurdle.  It must be obvious and support must be nearly unanimous.  The power of the tool will grow with support.  Scales as does the rose.
-
-
-Originally thought this was crap but now I realize it is exactly right.. just not sure it is communicated effectively (adding to projects)
-
-Where A is Harmful Act
--> is the function of harm
-Where B is the Weaker
-
-A->B = -B Determines Reversal Goal (RG)
-
-Where PF is Pitchforks
--B(n) PF A(n) = PFA
-
-where n = number
-where c = action organization
-PF(A) + n = n(PF(A)) = PF(Value)
-PF > RG = RG |-> -B
-             |-> C
-             
-             The idea is to determine a number which is needed to reverse harm being caused.  This number is then set as a goal for people to examine.  If people determine that the need to achieve the goal is merited, then support will be provided.  When support is sufficient, an organization is created to achieve the mission.  The result radically reduces harm being caused by misaligned actors.
-             -avoid labeling people as good or bad
-             -prevent harmful actions
-     
-
-**use twitter for now
-**need ETH for gas purposes
-**establish at least 2 other sources for true redundancy
-    - C#, Q# (for future), and GO maybe..
- **Linking mechanisms - research
- 
-
-
-
-
-
+ Pitchforks Ecosystem
+ Embracing Moral Techno-Economics for a Better Future
+ Abstract
+ The Pitchforks ecosystem represents a bold vision: merging moral philosophy with cutting-edge
+ technology to create a decentralized future where innovation and ethics coexist. Through a series of
+ interconnected projects-Goldengoat, Pitchforks, and GhostOS-we present a unified approach to
+ addressing real-world challenges, incentivizing positive contributions, and building resilient,
+ community-driven systems. This whitepaper outlines the principles, architecture, and tokenomics of
+ our ecosystem.
+ Philosophical Foundation
+ Rooted in Plato's concept of justice-the interest of the weaker-the Pitchforks ecosystem builds a
+ framework that emphasizes fairness and moral responsibility. Drawing from archetypes, the system
+ introduces Ninjas (stealth and strategy) and Knights (honor and leadership) as metaphors for
+ different roles. Horus, symbolizing vigilance and foresight, represents the platform's continuous
+ watch for harmful actions.
+ Pitchforks Functionality
+ Pitchforks is designed to unite people and provide a tool to fight against harm to humanity. Harmful
+ actions can sometimes be clearly identified and need to be addressed, especially when they are
+ backed by powerful entities. Pitchforks works by setting a high hurdle for activation, ensuring
+ legitimacy through community consensus. When support meets the required threshold, an
+ organization is formed to carry out the mission.
+ Page 1
+Flaukowski Ecosystem Whitepaper
+ Mathematical Framework:
+ A -> B = -B, where A represents the harmful act and B represents the weaker party affected by it.
+ The goal is to determine a reversal goal (RG) that mobilizes the community to act against A.
+ When PF > RG, where PF represents Pitchforks' level of support, the mission is activated.
+ Tokenomics
+ The Pitchforks ecosystem is powered by a native utility token called PFORK. This token facilitates
+ governance, incentivizes positive behavior, and ensures sustainability across all projects.
+ Token Name: Pitchforks Token (PFORK)
+ Supply: Fixed supply of 10 million PFORK
+ Utility includes Governance, Rewards, and Access.
+ Networks: Active on NEO N3, NEO X, and Ethereum.
+ Roadmap
+ Phase 1: Launch of Goldengoat MVP (Q1 2025)
+ Phase 2: Release of Pitchforks Beta (Q2 2025)
+ Phase 3: Launch of GhostOS with integrated PFORK support (Q3 2025)
+ Phase 4: Cross-chain compatibility and ecosystem scaling (Q4 2025)
+ Team
+ The Pitchforks ecosystem is led by a diverse group of innovators, developers, and philosophers who
+ believe in the power of decentralized technology to shape a better world.
+ Lead Developer: Flaukowski
+ Contributors: A global network of open-source contributors
+ Advisors: Experts in blockchain, philosophy, and ethics
+ Contact Information
+ Page 2
+Flaukowski Ecosystem Whitepaper
+ Email: flaukowski@proton.me
+ GitHub: github.com/flaukowski
+ Donation Addresses: PFORK on NEO N3, NEO X, and Ethereu
